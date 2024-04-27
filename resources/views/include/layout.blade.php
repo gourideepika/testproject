@@ -1,0 +1,6 @@
+@include('include.header')
+@include('include.sidebar')
+@include('include.navbar')
+@yield('content')
+@include('include.footer')
+@stack('scripts')
