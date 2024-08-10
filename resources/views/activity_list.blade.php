@@ -15,7 +15,7 @@
                 <table class="table table-hover">
                     <thead>
                         <tr>
-                            <th scope="col">#</th>
+                            <th scope="col">S.No</th>
                             <th scope="col">Task</th>
                             <th scope="col">Done By</th>
                             <th scope="col">Activity</th>
